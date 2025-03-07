@@ -36,7 +36,7 @@ Simulates realistic data streams representing user browsing behavior and transac
 ### Prerequisites
 - Kafka
 - Apache Spark (PySpark)
-- Python 3.x
+- Python 3
 
 ### Usage
 1. Start Kafka and Spark services.
